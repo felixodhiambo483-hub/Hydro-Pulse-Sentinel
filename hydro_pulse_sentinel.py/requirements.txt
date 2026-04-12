@@ -1,0 +1,5 @@
+streamlit
+geocoder
+pandas
+numpy
+cryptography
